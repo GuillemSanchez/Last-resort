@@ -1,0 +1,96 @@
+﻿  ModuleWindow.cpp
+  ModuleTextures.cpp
+  ModuleStartingImage.cpp
+  ModuleStageClear.cpp
+  ModuleRender.cpp
+  ModulePlayer.cpp
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\moduleplayer.cpp(77): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\moduleplayer.cpp(83): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\moduleplayer.cpp(89): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\moduleplayer.cpp(95): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\moduleplayer.cpp(110): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\moduleplayer.cpp(111): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  ModuleParticles.cpp
+  ModuleLoseImage.cpp
+  ModuleInput.cpp
+  ModuleFadeToBlack.cpp
+  ModuleCollision.cpp
+  ModuleBackground.cpp
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(25): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(26): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(27): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(354): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(356): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(357): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(358): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(359): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(360): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(361): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(362): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(363): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(364): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(365): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(366): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(367): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(368): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(369): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(370): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(371): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(372): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(373): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(374): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(375): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(376): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(377): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(378): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(379): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(380): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(381): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(382): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(383): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(384): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(385): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(386): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(387): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(388): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(389): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(390): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(391): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(392): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(393): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(394): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(395): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(396): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(397): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(398): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(399): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(400): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(401): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(402): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(403): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(404): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(405): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(406): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(407): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(408): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(409): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(410): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(411): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(412): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(413): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\modulebackground.cpp(414): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  ModuleAudio.cpp
+c:\users\gollim\documents\github\codefighters-lastresort\last resort coding ball\sdl_mixer\include\sdl_mixer.h(131): warning C4091: 'typedef ': se ha omitido a la izquierda de '_Mix_Music' cuando no hay ninguna variable declarada
+  Main.cpp
+  ModuleIntroNeoGeo.cpp
+  ModuleEnemies.cpp
+  ModuleBall.cpp
+  Globals.cpp
+  Enemy_Cockroach.cpp
+  Enemy.cpp
+  Generando código...
+  Compilando...
+  Application.cpp
+  Generando código...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1200,5): warning MSB8012: TargetName(Last Resort\Game) no coincide con el valor de la propiedad OutputFile de Linker (Game). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Link.OutputFile).
+  SDL Game.vcxproj -> C:\Users\gollim\Documents\GitHub\CodeFighters-LastResort\Last Resort Coding Ball\Debug\Last Resort\Game.exe

@@ -1,0 +1,13 @@
+﻿  ModuleBackground.cpp
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(194): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(195): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(196): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(213): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(217): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(217): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(220): warning C4018: '>': no coinciden signed/unsigned
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\modulebackground.cpp(220): warning C4018: '<': no coinciden signed/unsigned
+c:\users\gollim\documents\github\codefighters-lastresort\last resort prototype\animation.h(44): warning C4715: 'Animation::GetCurrentFrame': no todas las rutas de acceso de control devuelven un valor
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(SDL4 Handout\Game) does not match the Linker's OutputFile property value (Game). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  SDL Game.vcxproj -> C:\Users\gollim\Documents\GitHub\CodeFighters-LastResort\Last Resort Prototype\Debug\SDL4 Handout\Game.exe
+  SDL Game.vcxproj -> C:\Users\gollim\Documents\GitHub\CodeFighters-LastResort\Last Resort Prototype\Debug\SDL4 Handout\Game.pdb (Full PDB)
